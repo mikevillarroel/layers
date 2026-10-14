@@ -6,13 +6,9 @@ Inspired by [Broank's HomeScreen Creator](https://x.com/polyphian).
 
 ## Screenshots
 
-<img width="180" src="https://github.com/user-attachments/assets/1cf01e09-636a-4a98-8a94-ca335e1710d8" /> <img width="180" src="https://github.com/user-attachments/assets/87715150-1bba-46b9-92cf-687e4a57b3e2" /> <img width="180" src="https://github.com/user-attachments/assets/8bfcb54c-82ae-492a-af77-1b514b09dc18" />
+<img width="180" src="https://github.com/user-attachments/assets/1cf01e09-636a-4a98-8a94-ca335e1710d8" /> <img width="180" src="https://github.com/user-attachments/assets/87715150-1bba-46b9-92cf-687e4a57b3e2" /> <img width="180" src="https://github.com/user-attachments/assets/4e0cebdf-70f0-4896-bdd4-4445d0968162" />
 
 <img width="180" src="https://github.com/user-attachments/assets/f68abd21-004a-46be-a757-5a223ea388f8" /> <img width="180" src="https://github.com/user-attachments/assets/f09a200b-9359-493d-b691-158353ab8393" />
-
-### Real home screen with Layers effects
-
-<img width="180" src="https://github.com/user-attachments/assets/4e0cebdf-70f0-4896-bdd4-4445d0968162" />
 
 ## Features
 
