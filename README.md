@@ -22,7 +22,8 @@ Inspired by [Broank's HomeScreen Creator](https://x.com/polyphian).
 
 ## Requirements
 
-- iOS 17.0+
+- iOS 17.0+<img width="1170" height="2415" alt="IMG_9580" src="https://github.com/user-attachments/assets/4e0cebdf-70f0-4896-bdd4-4445d0968162" />
+
 - Xcode 16+ (to build from source)
 
 ## Build
