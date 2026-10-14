@@ -10,6 +10,10 @@ Inspired by [Broank's HomeScreen Creator](https://x.com/polyphian).
 
 <img width="180" src="https://github.com/user-attachments/assets/f68abd21-004a-46be-a757-5a223ea388f8" /> <img width="180" src="https://github.com/user-attachments/assets/f09a200b-9359-493d-b691-158353ab8393" />
 
+### Real home screen with Layers effects
+
+<img width="180" src="https://github.com/user-attachments/assets/4e0cebdf-70f0-4896-bdd4-4445d0968162" />
+
 ## Features
 
 - **Calibrate**: Upload a screenshot of your home screen — the app detects your 24 real icon positions automatically (tap to correct manually)
@@ -22,8 +26,7 @@ Inspired by [Broank's HomeScreen Creator](https://x.com/polyphian).
 
 ## Requirements
 
-- iOS 17.0+<img width="1170" height="2415" alt="IMG_9580" src="https://github.com/user-attachments/assets/4e0cebdf-70f0-4896-bdd4-4445d0968162" />
-
+- iOS 17.0+
 - Xcode 16+ (to build from source)
 
 ## Build
