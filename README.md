@@ -31,7 +31,6 @@ Inspired by [Broank's HomeScreen Creator](https://x.com/polyphian).
 2. Select your team in Signing & Capabilities
 3. Build and run on your device
 
-Or sideload the unsigned IPA with [ESign](https://esign.yyyue.xyz/) + your own certificate.
 
 ## Download
 
