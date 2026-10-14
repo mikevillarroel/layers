@@ -4,6 +4,16 @@ Home screen overlay app for iOS. Upload your wallpaper, bake icon effects at you
 
 Inspired by [Broank's HomeScreen Creator](https://x.com/polyphian).
 
+## Screenshots
+
+| Build - Icon Borders | Build - Depth Shadows | About |
+|---|---|---|
+| <img width="250" src="https://github.com/user-attachments/assets/1cf01e09-636a-4a98-8a94-ca335e1710d8" /> | <img width="250" src="https://github.com/user-attachments/assets/87715150-1bba-46b9-92cf-687e4a57b3e2" /> | <img width="250" src="https://github.com/user-attachments/assets/8bfcb54c-82ae-492a-af77-1b514b09dc18" /> |
+
+| Calibrate | Build - Top Bar |
+|---|---|
+| <img width="250" src="https://github.com/user-attachments/assets/f68abd21-004a-46be-a757-5a223ea388f8" /> | <img width="250" src="https://github.com/user-attachments/assets/f09a200b-9359-493d-b691-158353ab8393" /> |
+
 ## Features
 
 - **Calibrate**: Upload a screenshot of your home screen — the app detects your 24 real icon positions automatically (tap to correct manually)
