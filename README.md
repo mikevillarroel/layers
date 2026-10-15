@@ -1,47 +1,47 @@
-# Layers
+# Layers — v1.0.0
 
-Home screen overlay app for iOS. Upload your wallpaper, bake icon effects at your real icon positions, export to Photos, then set it as your wallpaper in Settings.
+A Home Screen wallpaper overlay studio. Pick a wallpaper, toggle visual effects,
+preview the result, save reusable layouts, and export the finished image.
+Set the exported image as your wallpaper in **Settings > Wallpaper**.
 
-Inspired by [Broank's HomeScreen Creator](https://x.com/polyphian).
+iOS does not allow apps to draw on the Home Screen, so all effects are baked
+into the exported wallpaper image at the exact positions where your Home
+Screen icons sit.
 
-## Screenshots
+## Install (easy way)
 
-<img width="180" src="https://github.com/user-attachments/assets/1cf01e09-636a-4a98-8a94-ca335e1710d8" /> <img width="180" src="https://github.com/user-attachments/assets/87715150-1bba-46b9-92cf-687e4a57b3e2" /> <img width="180" src="https://github.com/user-attachments/assets/4e0cebdf-70f0-4896-bdd4-4445d0968162" />
+1. Download the unsigned `.ipa` from [Releases](https://github.com/mikevillarroel/layers/releases).
+2. Sign it with [ESign](https://esign.yyyue.xyz), SideStore, or AltStore using your own certificate.
+3. Install it on your iPhone.
 
-<img width="180" src="https://github.com/user-attachments/assets/f68abd21-004a-46be-a757-5a223ea388f8" /> <img width="180" src="https://github.com/user-attachments/assets/f09a200b-9359-493d-b691-158353ab8393" />
+## Build from source (test build)
 
-## Features
+1. Unzip this archive on your Mac.
+2. Open `Layers.xcodeproj` in Xcode.
+3. In the project editor, select the **Layers** target > **Signing & Capabilities**,
+   and pick your Team.
+4. Connect your iPhone, select it as the run destination, and press **⌘R**.
+5. Look for **v0.1.0-test1** at the bottom of the Build screen to confirm
+   you are running this build.
 
-- **Calibrate**: Upload a screenshot of your home screen — the app detects your 24 real icon positions automatically (tap to correct manually)
-- **Icon Borders**: Colored borders around your icons (1–6pt)
-- **Depth Shadow**: Layered drop shadows for a floating effect
-- **3D Border**: Beveled 3D effect (white top-left, black bottom-right)
-- **Color Glow**: Neon glow around icons
-- **Dock Tint**: Tinted dock background, always centered
-- **Top Bar**: Styled top bar with Mask, Curve, or Smile shapes — solid color or image fill
+## How it works
 
-## Requirements
+- **Build screen**: choose a wallpaper from Photos, toggle effects
+  (Icon borders, Icon glow, Depth shadow, Dark plates, Hide notch, Dock tint)
+  and fine-tune each with sliders. Tap **Preview**.
+- **Preview screen**: see the composited wallpaper, **Save layout** to reuse
+  the effect settings later, or **Export** to save the finished wallpaper
+  to Photos.
+- The icon grid (4 × 6) is computed at runtime from your screen size, so it
+  adapts to any iPhone from the 13 to the latest — including Display Zoom.
 
-- iOS 17.0+
-- Xcode 16+ (to build from source)
+## Effects
 
-## Build
+All effects are generated procedurally in code (Core Graphics + Core Image).
+No external image assets. Names are our own.
 
-1. Open `Layers.xcodeproj` in Xcode
-2. Select your team in Signing & Capabilities
-3. Build and run on your device
+## Notes
 
-
-## Download
-
-Get the latest release (source ZIP) from the [Releases](https://github.com/mikevillarroel/layers/releases) page.
-
-## Credits
-
-- Developer: Miguel Villarroel ([@GOT_MUNCH1ES](https://x.com/GOT_MUNCH1ES))
-- Inspired by [Broank](https://x.com/polyphian) — HomeScreen Creator
-
-## Donate
-
-- PayPal: [paypal.me/mikevillarroel](https://paypal.me/mikevillarroel)
-- Cash App: $mikevillarroel
+- Test numbering: this is `v0.1.0-test1`. Only an explicit approval earns a
+  release number.
+- Nothing in this build is published anywhere — test builds go through chat.
