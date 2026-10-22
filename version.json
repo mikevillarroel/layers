@@ -1,0 +1,11 @@
+{
+  "app": "layers",
+  "latest_version": "1.0.1",
+  "notes": [
+    "In-app update alerts — new versions show up when you open the app",
+    "Icon Borders, Dock Tint and Depth Shadows",
+    "Bug fixes"
+  ],
+  "page_url": "https://mikevillarroel.github.io/buildbox-ios/download.html?app=layers&v=1.0.1&ipa=https%3A%2F%2Fgithub.com%2Fmikevillarroel%2Flayers%2Freleases%2Fdownload%2Fv1.0.1%2FLayers-1.0.1.ipa&size=1.3%20MB&notes=In-app%20update%20alerts%20%E2%80%94%20new%20versions%20show%20up%20when%20you%20open%20the%20app%7CIcon%20Borders%2C%20Dock%20Tint%20and%20Depth%20Shadows%7CBug%20fixes",
+  "ipa_url": "https://github.com/mikevillarroel/layers/releases/download/v1.0.1/Layers-1.0.1.ipa"
+}
