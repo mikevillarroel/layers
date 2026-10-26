@@ -1,10 +1,10 @@
 {
   "app": "layers",
-  "latest_version": "1.0.3",
+  "latest_version": "1.0.4",
   "notes": [
-    "FIX: Export now saves wallpapers to Photos",
+    "FIX: Saved layouts fully visible and deletable",
     "Bug fixes"
   ],
-  "page_url": "https://mikevillarroel.github.io/buildbox-ios/download.html?app=layers&v=1.0.3&ipa=https%3A%2F%2Fgithub.com%2Fmikevillarroel%2Flayers%2Freleases%2Fdownload%2Fv1.0.3%2FLayers-1.0.3.ipa&size=0.9+MB&notes=FIX%3A%20Export%20now%20saves%20wallpapers%20to%20Photos%7CBug%20fixes",
-  "ipa_url": "https://github.com/mikevillarroel/layers/releases/download/v1.0.3/Layers-1.0.3.ipa"
+  "page_url": "https://mikevillarroel.github.io/buildbox-ios/download.html?app=layers&v=1.0.4&ipa=https%3A%2F%2Fgithub.com%2Fmikevillarroel%2Flayers%2Freleases%2Fdownload%2Fv1.0.4%2FLayers-1.0.4.ipa&size=0.9+MB&notes=FIX%3A%20Saved%20layouts%20fully%20visible%20and%20deletable%7CBug%20fixes",
+  "ipa_url": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa"
 }
