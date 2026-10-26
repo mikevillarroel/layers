@@ -1,10 +1,10 @@
 {
   "app": "layers",
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.3",
   "notes": [
-    "FIX: About photo, social icons and header icon now display correctly",
+    "FIX: Export now saves wallpapers to Photos",
     "Bug fixes"
   ],
-  "page_url": "https://mikevillarroel.github.io/buildbox-ios/download.html?app=layers&v=1.0.2&ipa=https%3A%2F%2Fgithub.com%2Fmikevillarroel%2Flayers%2Freleases%2Fdownload%2Fv1.0.2%2FLayers-1.0.2.ipa&size=1.2+MB&notes=FIX%3A%20About%20photo%2C%20social%20icons%20and%20header%20icon%20now%20display%20correctly%7CBug%20fixes",
-  "ipa_url": "https://github.com/mikevillarroel/layers/releases/download/v1.0.2/Layers-1.0.2.ipa"
+  "page_url": "https://mikevillarroel.github.io/buildbox-ios/download.html?app=layers&v=1.0.3&ipa=https%3A%2F%2Fgithub.com%2Fmikevillarroel%2Flayers%2Freleases%2Fdownload%2Fv1.0.3%2FLayers-1.0.3.ipa&size=0.9+MB&notes=FIX%3A%20Export%20now%20saves%20wallpapers%20to%20Photos%7CBug%20fixes",
+  "ipa_url": "https://github.com/mikevillarroel/layers/releases/download/v1.0.3/Layers-1.0.3.ipa"
 }
