@@ -1,10 +1,10 @@
 {
   "app": "layers",
-  "latest_version": "1.0.4",
+  "latest_version": "1.0.5",
   "notes": [
-    "FIX: Saved layouts fully visible and deletable",
-    "Bug fixes"
+    "NEW: Effect presets - Depth shadow and 3D border now use Soft/Medium/Strong pills",
+    "Tighter 3D border frame and smaller shadows that fit the icon better"
   ],
-  "page_url": "https://mikevillarroel.github.io/buildbox-ios/download.html?app=layers&v=1.0.4&ipa=https%3A%2F%2Fgithub.com%2Fmikevillarroel%2Flayers%2Freleases%2Fdownload%2Fv1.0.4%2FLayers-1.0.4.ipa&size=0.9+MB&notes=FIX%3A%20Saved%20layouts%20fully%20visible%20and%20deletable%7CBug%20fixes",
-  "ipa_url": "https://github.com/mikevillarroel/layers/releases/download/v1.0.4/Layers-1.0.4.ipa"
+  "page_url": "https://mikevillarroel.github.io/buildbox-ios/download.html?app=layers&v=1.0.5&ipa=https%3A%2F%2Fgithub.com%2Fmikevillarroel%2Flayers%2Freleases%2Fdownload%2Fv1.0.5%2FLayers-1.0.5.ipa&size=0.9+MB&notes=NEW%3A%20Effect%20presets%20-%20Depth%20shadow%20and%203D%20border%20now%20use%20Soft%2FMedium%2FStrong%20pills%7CTighter%203D%20border%20frame%20and%20smaller%20shadows%20that%20fit%20the%20icon%20better",
+  "ipa_url": "https://github.com/mikevillarroel/layers/releases/download/v1.0.5/Layers-1.0.5.ipa"
 }
